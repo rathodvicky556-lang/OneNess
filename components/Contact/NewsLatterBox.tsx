@@ -9,7 +9,7 @@ const NewsLatterBox = () => {
       data-wow-delay=".2s"
     >
       <Image
-        src="/images/contact_us.jpg"
+        src="/images/Contact_us.jpg"
         alt="Contact Us"
         width={500}
         height={600}
