@@ -31,8 +31,7 @@ const AboutSectionTwo = () => {
                   Bug free code
                 </h3>
                 <p className="text-base font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                  do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Stay ahead of regulatory changes and tax deadlines. Subscribe for simplified updates on Indian tax laws and compliance, or reach out to consult with our experts.
                 </p>
               </div>
               <div className="mb-9">
