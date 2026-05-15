@@ -60,15 +60,15 @@ const Footer = () => {
               <div className="mb-12 lg:mb-16">
                 <h2 className="mb-10 text-xl font-bold text-white">Our Services</h2>
                 <ul className="space-y-4">
-                  <li><Link href="/services/startup-india" className="text-base text-body-color-dark hover:text-primary transition-all">Startup India</Link></li>
-                  <li><Link href="/services/gst" className="text-base text-body-color-dark hover:text-primary transition-all">GST & Tax</Link></li>
-                  <li><Link href="/services/loans" className="text-base text-body-color-dark hover:text-primary transition-all">Loan Advisory</Link></li>
-                  <li><Link href="/services/cfo" className="text-base text-body-color-dark hover:text-primary transition-all">Virtual CFO</Link></li>
+                  <li className="text-white">Startup India</li>
+                  <li className="text-white">GST & Tax</li>
+                  <li className="text-white">Loan Advisory</li>
+                  <li className="text-white">Virtual CFO</li>
                 </ul>
               </div>
             </div>
 
-            {/* COLUMN 3: COMPLIANCE LINKS */}
+            {/* COLUMN 3: COMPLIANCE LINKS
             <div className="w-full px-4 sm:w-1/2 md:w-1/2 lg:w-2/12 xl:w-2/12">
               <div className="mb-12 lg:mb-16">
                 <h2 className="mb-10 text-xl font-bold text-white">Compliance</h2>
@@ -79,7 +79,7 @@ const Footer = () => {
                   <li><Link href="/disclaimer" className="text-base text-body-color-dark hover:text-primary transition-all">Legal Disclaimer</Link></li>
                 </ul>
               </div>
-            </div>
+            </div> */}
 
             {/* COLUMN 4: WHATSAPP CONNECT */}
             <div className="w-full px-4 md:w-1/2 lg:w-4/12 xl:w-3/12">

@@ -23,7 +23,7 @@ const AboutSectionOne = () => {
             We Bridge the Gap Between Your Startup and Bank Capital.
           </h2>
           <p className="mb-8 text-base leading-relaxed text-body-color">
-            As a registered DSA partner with India’s leading Banks and NBFCs, we don’t just "apply" for loans. We engineer your financials to ensure high-ticket sanctions with the lowest possible interest rates.
+            As a registered DSA partner with India&apos;s leading Banks and NBFCs, we don&apos;t just &quot;apply&quot; for loans. We engineer your financials to ensure high-ticket sanctions with the lowest possible interest rates.
           </p>
           
           <ul className="space-y-4">
