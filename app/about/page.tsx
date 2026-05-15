@@ -14,7 +14,8 @@ const AboutPage = () => {
     <>
       <Breadcrumb
         pageName="About Page"
-        description="Lorem ipsum dolor sit amet, consectetur adipiscing elit. In varius eros eget sapien consectetur ultrices. Ut quis dapibus libero."
+        description="Expert Guidance, Delivered.
+Stay ahead of regulatory changes and tax deadlines. Subscribe for simplified updates on Indian tax laws and compliance, or reach out to consult with our experts."
       />
       <AboutSectionOne />
     </>
