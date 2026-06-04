@@ -14,7 +14,7 @@ const ContactPage = () => {
     <>
       <Breadcrumb
         pageName="Contact Page"
-        description=""Have questions about compliance, fundraising compliance, or financial strategy? Fill out the form below or reach out via WhatsApp for a priority consultation with our advisory team."
+        description="Have questions about compliance, fundraising compliance, or financial strategy? Fill out the form below or reach out via WhatsApp for a priority consultation with our advisory team."
       />
 
       <Contact />
